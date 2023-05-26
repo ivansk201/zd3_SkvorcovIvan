@@ -1,0 +1,11 @@
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\bin\Debug\зад3.exe.config
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\bin\Debug\зад3.exe
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\bin\Debug\зад3.pdb
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.csproj.AssemblyReference.cache
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.Form1.resources
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.Properties.Resources.resources
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.csproj.GenerateResource.cache
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.exe
+C:\Users\st305a05\Desktop\Skvorcov\Практика\Практика2\зад3\зад3\obj\Debug\зад3.pdb
